@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="message_send">&quot;Send Message&quot;</string>
+    <string name="message_cancel">&quot;Cancel Message&quot;</string>
+    <string name="message">&quot;Type your message here&quot;</string>
+
+</resources>

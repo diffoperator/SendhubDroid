@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="contact_add_name">&quot;Contact Name&quot;</string>
+    <string name="contact_add_number">&quot;Contact Number&quot;</string>
+	<string name="contact_message">&quot;Send Message&quot;</string>
+    <string name="contact_add">&quot;Add Contact&quot;</string>
+    <string name="error_invalid_number">&quot;Invalid Phone number&quot;</string>
+
+</resources>
